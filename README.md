@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Breno Fernando Guerra Marrão</h1>
 <h3 align="center">OIIIIIII</h3>
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **marraob@gmail.com**
 
 - ⚡ Fun fact **People call me bruno**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmarrao&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
