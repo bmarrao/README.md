@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **People call me bruno**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmarrao&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
